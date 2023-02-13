@@ -35,7 +35,7 @@ body{background-color: #ACACAC;}
 .about{font-size: 35px;
 }
 .text{font-size: 28px;
-max-width: 1250px;}
+width: 100%;}
 .first{ background-color: #E5E5E5;
 padding-left: 1.5%;
 margin-top: 3%;
@@ -90,7 +90,8 @@ img{
   margin-bottom: 6%;
   padding-top: 2px;
   padding-bottom: 3%;
-  border-radius: 25px;}
+  border-radius: 25px;
+width: 100%;}
   .feed{font-size: 35px}
   .ptex{font-size: 28px;}
   textarea{font-size: 20px;}
