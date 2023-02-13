@@ -79,7 +79,8 @@ img{
     text-decoration: none;
   }
   table{margin-bottom: 2%;
-  max-width: 85%;}
+    width: 100%;}
+    td{padding: 0.5%;}
 
   .fourth{ background-color: #E5E5E5;
   padding-left: 1.5%;
